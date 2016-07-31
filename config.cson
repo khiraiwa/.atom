@@ -1,0 +1,12 @@
+"*":
+  core:
+    disabledPackages: [
+      "open-github-from-npm"
+    ]
+  editor:
+    fontFamily: "inconsolata,takaoGothic"
+    fontSize: 13
+  "exception-reporting":
+    userId: "ace237c1-ea7e-457a-76ef-87cf15aaf069"
+  welcome:
+    showOnStartup: false
